@@ -1,0 +1,23 @@
+{
+  "name": "productsapp",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanta001/nodeJsCurd.git"
+  },
+  "keywords": [
+    "shoes",
+    "clothes"
+  ],
+  "author": "Hemanta Ghimire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanta001/nodeJsCurd/issues"
+  },
+  "homepage": "https://github.com/hemanta001/nodeJsCurd#readme"
+}
